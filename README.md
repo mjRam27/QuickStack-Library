@@ -1,2 +1,2 @@
 # QuickStack-Library
-Library management System.
+Library management.
